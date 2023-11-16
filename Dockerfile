@@ -68,7 +68,7 @@ RUN apk add --no-cache \
       curl \
       python3 \
       zlib-dev \
-      boost-dev
+      boost-dev \
       git \
       git-lfs \
       musl-locales \
