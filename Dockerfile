@@ -59,6 +59,7 @@ ENV TZ=Etc/UTC
 # hadolint ignore=DL3018
 RUN apk add --no-cache \
       bash \
+      musl-dev \
       clang \
       libstdc++-dev \
       cmake \
