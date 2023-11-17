@@ -65,6 +65,7 @@ RUN apk add --no-cache \
       cmake \
       make \
       pkgconf \
+      ccache \
       curl-dev \
       curl \
       python3 \
